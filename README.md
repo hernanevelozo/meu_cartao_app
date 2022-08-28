@@ -1,2 +1,2 @@
-# meu_cartao_app
+# mi_card_app
 App de apresentação
